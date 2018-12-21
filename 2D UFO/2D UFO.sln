@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D UFO", "2D UFO.csproj", "{B31B51C0-B382-F3DE-F7E3-82700A6BBDD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D UFO.Editor", "2D UFO.Editor.csproj", "{8195E956-835B-8D52-67D7-DA628BED5C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31B51C0-B382-F3DE-F7E3-82700A6BBDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31B51C0-B382-F3DE-F7E3-82700A6BBDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31B51C0-B382-F3DE-F7E3-82700A6BBDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31B51C0-B382-F3DE-F7E3-82700A6BBDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8195E956-835B-8D52-67D7-DA628BED5C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8195E956-835B-8D52-67D7-DA628BED5C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8195E956-835B-8D52-67D7-DA628BED5C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8195E956-835B-8D52-67D7-DA628BED5C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
